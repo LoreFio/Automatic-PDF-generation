@@ -1,4 +1,4 @@
-PIN Solred (4 números);NÚMERO TARJETA;MATRÍCULA;N Tarjeta 2;Pin filtered
+PIN Solred (4 numeros);NUMERO TARJETA;MATRICULA;N Tarjeta 2;Pin filtered
 '0113';************00012';'VUELTA-001';0012;0113
 '1309';'************00020';'VUELTA-002';0020;1309
 '2767';'************00038';'VUELTA-003';0038;2767
@@ -400,5 +400,3 @@ PIN Solred (4 números);NÚMERO TARJETA;MATRÍCULA;N Tarjeta 2;Pin filtered
 '6744';'************03990';VUELTA-399';3990;6744
 '9399';'************04006';VUELTA-400';4006;9399
 '2751';'************04014';VUELTA-401';4014;2751
-;;;;
-;;;;
